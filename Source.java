@@ -15,7 +15,6 @@ public class Source
 
         my_Container.deleteAt(5);
 
-        for(int i = 0; i < my_Container.length(); i++)
-            System.out.println(my_Container.at(i));
+        System.out.println(my_Container);
     }
 }
