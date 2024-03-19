@@ -16,5 +16,6 @@ public class Source
         my_Container.deleteAt(5);
 
         System.out.println(my_Container);
+        /*Это просто комментарий */
     }
 }
